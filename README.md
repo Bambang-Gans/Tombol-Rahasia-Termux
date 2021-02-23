@@ -8,8 +8,8 @@ Is a tool for add keys to your Termux app.
 * `$ pkg update && pkg upgrade`
 * `$ pkg install python`
 * `$ pkg install git`
-* `$ git clone https://github.com/karjok/terkey`
-* `$ cd terkey`
+* `$ git clone https://github.com/Bambang-Gans/Tombol-Rahasia-Termux`
+* `$ cd Tombol-Rahasia-Termux`
 * `$ python terkey.py`
 
 
@@ -45,4 +45,4 @@ Hmm.. this menu just contains a little shit about this tool and me
 > Hey, if you think this is very useful, give me star please !
 > Thanks !
 ## Author
-So many information about me in internet, just type ['Karjok Pangesty'](https://t.me/om_karjok) in your browser !
+So many information about me in internet, just type ['Bambang Tri Raharjo'](https://t.me/Sadboy) in your browser !
