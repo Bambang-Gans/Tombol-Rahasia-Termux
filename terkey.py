@@ -74,11 +74,11 @@ class Terkey:
     {a}https://wiki.termux.com/wiki/Touch_Keyboard{c}
     
     Want to chat with me ?
-    {a}https://t.me/om_karjok{c}
+    {a}https://wa.me/6282313021398{c}
     My Web Site
-    {a}https://www.karjokpangesty.com{c}
+    {a}https://www.bambang.blogspot.com{c}
     And if you want to give me some money, you can visit
-    {a}https://trakteer.id/karjok-pangesty{c}
+    {a}https://saweria.co/BTRXBOT{c}
     
     """
     )
@@ -136,9 +136,9 @@ class Terkey:
       self.about()
     else:
       pass
-    #print(c+'Silahkan hubungi '+a+'https://t.me/om_karjok'+c+' jika ada yang mau di bicarakan terkait tool ini, bisnis atau sekedar bertanya kabar. :v\nTerimakasih ^_^')
+    #print(c+'Silahkan hubungi '+a+'https://wa.me/6282313021398'+c+' jika ada yang mau di bicarakan terkait tool ini, bisnis atau sekedar bertanya kabar. :v\nTerimakasih ^_^')
 if __name__=='__main__':
   terkey = Terkey()
   terkey.start()
 # ini cuma shortcut buat bantu para nub
-# karjok pangesty
+# Bambang Tri Raharjo
